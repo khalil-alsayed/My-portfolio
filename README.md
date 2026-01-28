@@ -1,2 +1,2 @@
 A high-performance, immersive personal portfolio website designed to showcase advanced research in AI/DRL and software engineering capabilities. This project features cinematic animations, smooth inertial scrolling, light/dark mode support, and reactive interfaces built with modern web technologies.
-![Portfolio Preview](public/preview.png)
+![Portfolio Preview](preview.png)
